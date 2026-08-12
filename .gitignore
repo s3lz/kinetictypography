@@ -1,6 +1,5 @@
 node_modules
 dist
-api/creative-direction.js
 .DS_Store
 *.log
 .env.local
