@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Ballet&family=Bebas+Neue&family=Bitcount+Prop+Single&family=Elsie+Swash+Caps:wght@400;900&family=League+Gothic&family=Lekton:wght@400;700&family=Manrope:wght@400;500;600&family=Michroma&family=Petit+Formal+Script&family=Pinyon+Script&family=Space+Grotesk:wght@400;500;600;700&family=Turret+Road:wght@400;500;700;800&family=UnifrakturMaguntia&family=Xanh+Mono:wght@400;700&family=Zalando+Sans+Expanded:wght@400;500;600;700&display=swap");
+
+:root {
+  --font-ballet: "Ballet", cursive;
+  --font-bebas-neue: "Bebas Neue", sans-serif;
+  --font-bitcount-prop-single: "Bitcount Prop Single", monospace;
+  --font-elsie-swash-caps: "Elsie Swash Caps", cursive;
+  --font-league-gothic: "League Gothic", sans-serif;
+  --font-lekton: "Lekton", monospace;
+  --font-manrope: "Manrope", sans-serif;
+  --font-michroma: "Michroma", sans-serif;
+  --font-petit-formal-script: "Petit Formal Script", cursive;
+  --font-pinyon-script: "Pinyon Script", cursive;
+  --font-space-grotesk: "Space Grotesk", sans-serif;
+  --font-turret-road: "Turret Road", sans-serif;
+  --font-unifraktur-maguntia: "UnifrakturMaguntia", cursive;
+  --font-xanh-mono: "Xanh Mono", monospace;
+  --font-zalando-sans-expanded: "Zalando Sans Expanded", sans-serif;
+}

@@ -1,0 +1,70 @@
+<svg width="840" height="605" viewBox="0 0 840 605" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.15">
+<mask id="mask0_107_192" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-110" y="-101" width="542" height="717">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-110 -16.4434L301.537 -101L431.482 531.444L19.9451 616L-110 -16.4434Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_107_192)">
+<g opacity="0.46">
+<rect x="-109.997" y="-16.4438" width="420.128" height="645.655" transform="rotate(-11.6107 -109.997 -16.4438)" fill="url(#pattern0_107_192)"/>
+</g>
+</g>
+</g>
+<g opacity="0.15">
+<mask id="mask1_107_192" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="249" y="46" width="542" height="717">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M790.482 130.557L378.945 46.0001L249 678.444L660.537 763L790.482 130.557Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_107_192)">
+<g opacity="0.46">
+<rect width="420.128" height="645.655" transform="matrix(-0.979538 -0.201261 -0.201261 0.979538 790.48 130.556)" fill="url(#pattern1_107_192)"/>
+</g>
+</g>
+</g>
+<g opacity="0.15">
+<mask id="mask2_107_192" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="195" y="-61" width="294" height="376">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M195 -14.6104L420.778 -60.9999L488.502 268.61L262.723 315L195 -14.6104Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_107_192)">
+<g opacity="0.46">
+<rect x="195.001" y="-14.6106" width="230.492" height="336.496" transform="rotate(-11.6107 195.001 -14.6106)" fill="url(#pattern2_107_192)"/>
+</g>
+</g>
+</g>
+<g opacity="0.15">
+<mask id="mask3_107_192" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="492" y="-318" width="495" height="621">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M986.151 -239.366L603.437 -318L492 224.366L874.714 303L986.151 -239.366Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_107_192)">
+<g opacity="0.46">
+<rect width="390.703" height="553.696" transform="matrix(-0.979538 -0.201261 -0.201261 0.979538 986.148 -239.366)" fill="url(#pattern3_107_192)"/>
+</g>
+</g>
+</g>
+<g opacity="0.15">
+<mask id="mask4_107_192" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="588" y="169" width="309" height="562">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M588 210.541L790.177 169L897 688.906L694.823 730.447L588 210.541Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_107_192)">
+<g opacity="0.46">
+<rect x="588.001" y="210.54" width="206.398" height="530.767" transform="rotate(-11.6107 588.001 210.54)" fill="url(#pattern4_107_192)"/>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0_107_192" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_107_192" transform="scale(0.00295858 0.00118343)"/>
+</pattern>
+<pattern id="pattern1_107_192" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_107_192" transform="scale(0.00295858 0.00118343)"/>
+</pattern>
+<pattern id="pattern2_107_192" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_107_192" transform="scale(0.00295858 0.00118343)"/>
+</pattern>
+<pattern id="pattern3_107_192" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_107_192" transform="scale(0.00295858 0.00118343)"/>
+</pattern>
+<pattern id="pattern4_107_192" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_107_192" transform="scale(0.00295858 0.00118343)"/>
+</pattern>
+<image id="image0_107_192" width="338" height="845" preserveAspectRatio="none" href="/assets/export-overlay-clef.png"/>
+</defs>
+</svg>

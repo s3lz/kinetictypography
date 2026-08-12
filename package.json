@@ -1,0 +1,32 @@
+{
+  "name": "kinetic-typography",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:direct": "node scripts/dev.mjs",
+    "dev:safe": "npm --userconfig .npmrc.local run dev",
+    "fonts:dotum": "bash scripts/fetch-dotum.sh",
+    "build": "tsc --noEmit && vite build",
+    "build:direct": "node scripts/dev.mjs build",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@rollup/rollup-darwin-arm64": "4.62.2",
+    "@types/node": "^26.1.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0"
+  }
+}

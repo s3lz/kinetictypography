@@ -1,0 +1,796 @@
+[
+  {
+    "name": "ballet",
+    "category": "Display Script",
+    "personality": [
+      "dreamy",
+      "delicate",
+      "romantic"
+    ],
+    "visualIdentity": [
+      "calligraphic",
+      "ethereal",
+      "lightweight-strokes"
+    ],
+    "creativeUseCases": [
+      "romantic intros",
+      "floating dream sequences",
+      "delicate emotional peaks"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 3,
+      "density": 2,
+      "sharpness": 1,
+      "roundness": 5
+    },
+    "energy": 2,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.95,
+      "organic": 0.9,
+      "mechanical": 0.1,
+      "dissolve": 0.6,
+      "impact": 0.15,
+      "glitch": 0.05,
+      "kinetic": 0.15
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.95,
+      "melancholic": 0.45,
+      "energetic": 0.2,
+      "dark": 0.1,
+      "warm": 0.75,
+      "nostalgic": 0.4,
+      "futuristic": 0.05
+    },
+    "motionPersonality": {
+      "preferredEntrance": "soft fade-in with gentle rise",
+      "preferredIdle": "slow floating drift",
+      "preferredTransition": "fluid morph between letterforms",
+      "preferredExit": "dissolve into mist"
+    }
+  },
+  {
+    "name": "bitcount-prop-single",
+    "category": "Experimental Pixel Display",
+    "personality": [
+      "digital",
+      "glitchy",
+      "raw"
+    ],
+    "visualIdentity": [
+      "pixel-grid",
+      "digital-noise",
+      "raw-geometry"
+    ],
+    "creativeUseCases": [
+      "glitch aesthetics",
+      "electronic breakdowns",
+      "synthetic textures"
+    ],
+    "contrastPotential": 5,
+    "structure": {
+      "strokeContrast": 1,
+      "complexity": 4,
+      "density": 4,
+      "sharpness": 5,
+      "roundness": 1
+    },
+    "energy": 4,
+    "experimental": 5,
+    "motionAffinity": {
+      "floating": 0.2,
+      "organic": 0.1,
+      "mechanical": 0.7,
+      "dissolve": 0.5,
+      "impact": 0.6,
+      "glitch": 0.95,
+      "kinetic": 0.55
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.15,
+      "melancholic": 0.25,
+      "energetic": 0.8,
+      "dark": 0.45,
+      "warm": 0.1,
+      "nostalgic": 0.2,
+      "futuristic": 0.9
+    },
+    "motionPersonality": {
+      "preferredEntrance": "pixel snap with stagger",
+      "preferredIdle": "subtle glitch flicker",
+      "preferredTransition": "fragmented reorder",
+      "preferredExit": "digital dissolve"
+    }
+  },
+  {
+    "name": "lekton",
+    "category": "Technical Monospace",
+    "personality": [
+      "precise",
+      "minimal",
+      "intellectual"
+    ],
+    "visualIdentity": [
+      "monospaced",
+      "technical",
+      "angular-precision"
+    ],
+    "creativeUseCases": [
+      "data-driven lyrics",
+      "cyberpunk narration",
+      "mechanical rhythms"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 2,
+      "density": 3,
+      "sharpness": 4,
+      "roundness": 1
+    },
+    "energy": 3,
+    "experimental": 4,
+    "motionAffinity": {
+      "floating": 0.3,
+      "organic": 0.2,
+      "mechanical": 0.9,
+      "dissolve": 0.5,
+      "impact": 0.6,
+      "glitch": 0.7,
+      "kinetic": 0.5
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.15,
+      "melancholic": 0.35,
+      "energetic": 0.45,
+      "dark": 0.3,
+      "warm": 0.2,
+      "nostalgic": 0.25,
+      "futuristic": 0.65
+    },
+    "motionPersonality": {
+      "preferredEntrance": "typewriter reveal",
+      "preferredIdle": "steady mechanical pulse",
+      "preferredTransition": "linear code-like shifts",
+      "preferredExit": "hard cut or terminal blink"
+    }
+  },
+  {
+    "name": "xanh-mono",
+    "category": "Minimal Monospace",
+    "personality": [
+      "clean",
+      "steady",
+      "introspective"
+    ],
+    "visualIdentity": [
+      "minimal-mono",
+      "quiet-precision",
+      "sparse-forms"
+    ],
+    "creativeUseCases": [
+      "introspective passages",
+      "voiceover-style text",
+      "clinical atmosphere"
+    ],
+    "contrastPotential": 2,
+    "structure": {
+      "strokeContrast": 1,
+      "complexity": 1,
+      "density": 2,
+      "sharpness": 3,
+      "roundness": 2
+    },
+    "energy": 2,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.45,
+      "organic": 0.25,
+      "mechanical": 0.75,
+      "dissolve": 0.55,
+      "impact": 0.35,
+      "glitch": 0.2,
+      "kinetic": 0.35
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.25,
+      "melancholic": 0.55,
+      "energetic": 0.2,
+      "dark": 0.25,
+      "warm": 0.3,
+      "nostalgic": 0.35,
+      "futuristic": 0.4
+    },
+    "motionPersonality": {
+      "preferredEntrance": "quiet fade with minimal shift",
+      "preferredIdle": "subtle breath-like spacing",
+      "preferredTransition": "measured linear drift",
+      "preferredExit": "gentle opacity falloff"
+    }
+  },
+  {
+    "name": "manrope",
+    "category": "Modern Sans",
+    "personality": [
+      "balanced",
+      "friendly",
+      "versatile"
+    ],
+    "visualIdentity": [
+      "humanist",
+      "restrained",
+      "architectural"
+    ],
+    "creativeUseCases": [
+      "neutral baseline subverted by aggressive motion",
+      "warm corporate forms pushed into editorial scale"
+    ],
+    "contrastPotential": 2,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 2,
+      "density": 3,
+      "sharpness": 2,
+      "roundness": 4
+    },
+    "energy": 3,
+    "experimental": 1,
+    "motionAffinity": {
+      "floating": 0.55,
+      "organic": 0.6,
+      "mechanical": 0.4,
+      "dissolve": 0.45,
+      "impact": 0.4,
+      "glitch": 0.1,
+      "kinetic": 0.45
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.4,
+      "melancholic": 0.35,
+      "energetic": 0.5,
+      "dark": 0.2,
+      "warm": 0.55,
+      "nostalgic": 0.3,
+      "futuristic": 0.35
+    },
+    "motionPersonality": {
+      "preferredEntrance": "smooth scale-in",
+      "preferredIdle": "balanced gentle drift",
+      "preferredTransition": "soft crossfade between states",
+      "preferredExit": "clean fade out"
+    }
+  },
+  {
+    "name": "league-gothic",
+    "category": "Condensed Gothic",
+    "personality": [
+      "bold",
+      "industrial",
+      "commanding"
+    ],
+    "visualIdentity": [
+      "condensed-caps",
+      "industrial-weight",
+      "poster-scale"
+    ],
+    "creativeUseCases": [
+      "anthemic choruses",
+      "propaganda-style statements",
+      "high-impact title cards"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 2,
+      "density": 4,
+      "sharpness": 4,
+      "roundness": 1
+    },
+    "energy": 4,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.15,
+      "organic": 0.1,
+      "mechanical": 0.75,
+      "dissolve": 0.3,
+      "impact": 0.95,
+      "glitch": 0.15,
+      "kinetic": 0.9
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.05,
+      "melancholic": 0.3,
+      "energetic": 0.85,
+      "dark": 0.55,
+      "warm": 0.15,
+      "nostalgic": 0.35,
+      "futuristic": 0.4
+    },
+    "motionPersonality": {
+      "preferredEntrance": "hard slam or wipe",
+      "preferredIdle": "tense held presence",
+      "preferredTransition": "aggressive scale or crop",
+      "preferredExit": "impact cut"
+    }
+  },
+  {
+    "name": "petit-formal-script",
+    "category": "Formal Script",
+    "personality": [
+      "elegant",
+      "ornate",
+      "whimsical"
+    ],
+    "visualIdentity": [
+      "ornamental-script",
+      "handwritten-flourish",
+      "vintage-elegance"
+    ],
+    "creativeUseCases": [
+      "nostalgic ballads",
+      "wedding-film aesthetics",
+      "intimate storytelling"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 3,
+      "complexity": 4,
+      "density": 3,
+      "sharpness": 2,
+      "roundness": 4
+    },
+    "energy": 2,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.7,
+      "organic": 0.85,
+      "mechanical": 0.1,
+      "dissolve": 0.55,
+      "impact": 0.2,
+      "glitch": 0.05,
+      "kinetic": 0.3
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.55,
+      "melancholic": 0.5,
+      "energetic": 0.25,
+      "dark": 0.15,
+      "warm": 0.7,
+      "nostalgic": 0.85,
+      "futuristic": 0.05
+    },
+    "motionPersonality": {
+      "preferredEntrance": "handwritten stroke reveal",
+      "preferredIdle": "graceful sway",
+      "preferredTransition": "flowing calligraphic morph",
+      "preferredExit": "ink fade"
+    }
+  },
+  {
+    "name": "elsie-swash-caps",
+    "category": "Ornamental Editorial Serif",
+    "personality": [
+      "ornamental",
+      "vintage",
+      "theatrical"
+    ],
+    "visualIdentity": [
+      "decorative-serif",
+      "victorian-ornament",
+      "theatrical-caps"
+    ],
+    "creativeUseCases": [
+      "period-piece drama",
+      "cabaret aesthetics",
+      "editorial luxury"
+    ],
+    "contrastPotential": 5,
+    "structure": {
+      "strokeContrast": 4,
+      "complexity": 5,
+      "density": 4,
+      "sharpness": 2,
+      "roundness": 3
+    },
+    "energy": 3,
+    "experimental": 3,
+    "motionAffinity": {
+      "floating": 0.5,
+      "organic": 0.55,
+      "mechanical": 0.2,
+      "dissolve": 0.45,
+      "impact": 0.35,
+      "glitch": 0.1,
+      "kinetic": 0.35
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.35,
+      "melancholic": 0.4,
+      "energetic": 0.35,
+      "dark": 0.25,
+      "warm": 0.55,
+      "nostalgic": 0.8,
+      "futuristic": 0.1
+    },
+    "motionPersonality": {
+      "preferredEntrance": "ornate capitals bloom in",
+      "preferredIdle": "decorative subtle shimmer",
+      "preferredTransition": "swash-driven morph",
+      "preferredExit": "theatrical curtain fade"
+    }
+  },
+  {
+    "name": "michroma",
+    "category": "Sci-Fi Geometric Display",
+    "personality": [
+      "synthetic",
+      "geometric",
+      "luminous"
+    ],
+    "visualIdentity": [
+      "sci-fi-geometric",
+      "chrome-edged",
+      "futurist-display"
+    ],
+    "creativeUseCases": [
+      "synthwave visuals",
+      "space-age titles",
+      "electronic crescendos"
+    ],
+    "contrastPotential": 5,
+    "structure": {
+      "strokeContrast": 1,
+      "complexity": 3,
+      "density": 3,
+      "sharpness": 5,
+      "roundness": 2
+    },
+    "energy": 4,
+    "experimental": 4,
+    "motionAffinity": {
+      "floating": 0.35,
+      "organic": 0.1,
+      "mechanical": 0.85,
+      "dissolve": 0.5,
+      "impact": 0.7,
+      "glitch": 0.45,
+      "kinetic": 0.4
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.2,
+      "melancholic": 0.2,
+      "energetic": 0.75,
+      "dark": 0.35,
+      "warm": 0.15,
+      "nostalgic": 0.15,
+      "futuristic": 0.95
+    },
+    "motionPersonality": {
+      "preferredEntrance": "geometric assemble",
+      "preferredIdle": "synthetic glow pulse",
+      "preferredTransition": "modular panel shift",
+      "preferredExit": "light scatter"
+    }
+  },
+  {
+    "name": "unifraktur-maguntia",
+    "category": "Blackletter Gothic",
+    "personality": [
+      "medieval",
+      "heavy",
+      "dramatic"
+    ],
+    "visualIdentity": [
+      "blackletter",
+      "gothic-density",
+      "medieval-weight"
+    ],
+    "creativeUseCases": [
+      "dark ritual atmospheres",
+      "heavy metal aesthetics",
+      "dramatic finality"
+    ],
+    "contrastPotential": 5,
+    "structure": {
+      "strokeContrast": 5,
+      "complexity": 5,
+      "density": 5,
+      "sharpness": 3,
+      "roundness": 1
+    },
+    "energy": 4,
+    "experimental": 4,
+    "motionAffinity": {
+      "floating": 0.1,
+      "organic": 0.15,
+      "mechanical": 0.5,
+      "dissolve": 0.4,
+      "impact": 0.85,
+      "glitch": 0.2,
+      "kinetic": 0.65
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.05,
+      "melancholic": 0.65,
+      "energetic": 0.55,
+      "dark": 0.95,
+      "warm": 0.1,
+      "nostalgic": 0.7,
+      "futuristic": 0.05
+    },
+    "motionPersonality": {
+      "preferredEntrance": "heavy stamp or carve-in",
+      "preferredIdle": "imposing stillness",
+      "preferredTransition": "fractured gothic morph",
+      "preferredExit": "shadow collapse"
+    }
+  },
+  {
+    "name": "space-grotesk",
+    "category": "Contemporary Geometric Grotesk",
+    "personality": [
+      "geometrically-balanced",
+      "intelligently-proportioned",
+      "mildly-experimental"
+    ],
+    "visualIdentity": [
+      "geometric-grotesk",
+      "medium-rigidity",
+      "deformation-tolerant"
+    ],
+    "creativeUseCases": [
+      "modern emotional indie and alternative tracks",
+      "experimental electronic with readable structure",
+      "avoid for fragile script intimacy or dense blackletter drama"
+    ],
+    "contrastPotential": 3,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 2,
+      "density": 3,
+      "sharpness": 3,
+      "roundness": 3
+    },
+    "energy": 3,
+    "experimental": 3,
+    "motionAffinity": {
+      "floating": 0.45,
+      "organic": 0.4,
+      "mechanical": 0.5,
+      "dissolve": 0.5,
+      "impact": 0.45,
+      "glitch": 0.25,
+      "kinetic": 0.65
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.35,
+      "melancholic": 0.4,
+      "energetic": 0.55,
+      "dark": 0.25,
+      "warm": 0.4,
+      "nostalgic": 0.25,
+      "futuristic": 0.55
+    },
+    "motionPersonality": {
+      "preferredEntrance": "clean geometric rise with measured opacity",
+      "preferredIdle": "balanced micro-drift holding silhouette",
+      "preferredTransition": "controlled stretch without losing grotesk clarity",
+      "preferredExit": "decisive fade with remnant geometry"
+    }
+  },
+  {
+    "name": "turret-road",
+    "category": "Architectural Display",
+    "personality": [
+      "angular-engineered",
+      "structurally-rigid",
+      "vertically-assertive"
+    ],
+    "visualIdentity": [
+      "angular-geometry",
+      "architectural-structure",
+      "engineered-display"
+    ],
+    "creativeUseCases": [
+      "mechanical and industrial rhythms",
+      "futuristic tense electronic builds",
+      "avoid for organic intimacy soft ballads or fluid romantic motion"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 3,
+      "density": 4,
+      "sharpness": 5,
+      "roundness": 1
+    },
+    "energy": 4,
+    "experimental": 3,
+    "motionAffinity": {
+      "floating": 0.15,
+      "organic": 0.1,
+      "mechanical": 0.95,
+      "dissolve": 0.35,
+      "impact": 0.75,
+      "glitch": 0.55,
+      "kinetic": 0.55
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.05,
+      "melancholic": 0.35,
+      "energetic": 0.65,
+      "dark": 0.5,
+      "warm": 0.1,
+      "nostalgic": 0.15,
+      "futuristic": 0.9
+    },
+    "motionPersonality": {
+      "preferredEntrance": "rigid vertical assemble or engineered snap-in",
+      "preferredIdle": "locked architectural hold with tension",
+      "preferredTransition": "panel-like shifts preserving hard angles",
+      "preferredExit": "structural collapse or hard mechanical cut"
+    }
+  },
+  {
+    "name": "zalando-sans-expanded",
+    "category": "Expanded Geometric Sans",
+    "personality": [
+      "horizontally-expansive",
+      "cinematically-spacious",
+      "confident-presence"
+    ],
+    "visualIdentity": [
+      "expanded-sans",
+      "wide-silhouette",
+      "low-compression"
+    ],
+    "creativeUseCases": [
+      "atmospheric and cinematic slow-burn tracks",
+      "dramatic spacious builds with wide letter horizons",
+      "avoid for rapid percussive density or cramped aggressive hooks"
+    ],
+    "contrastPotential": 3,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 2,
+      "density": 2,
+      "sharpness": 3,
+      "roundness": 3
+    },
+    "energy": 3,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.7,
+      "organic": 0.35,
+      "mechanical": 0.35,
+      "dissolve": 0.6,
+      "impact": 0.35,
+      "glitch": 0.15,
+      "kinetic": 0.4
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.55,
+      "melancholic": 0.4,
+      "energetic": 0.4,
+      "dark": 0.25,
+      "warm": 0.35,
+      "nostalgic": 0.3,
+      "futuristic": 0.45
+    },
+    "motionPersonality": {
+      "preferredEntrance": "wide horizontal reveal across the frame",
+      "preferredIdle": "spacious slow drift with open tracking",
+      "preferredTransition": "expansive pan or scale that preserves width",
+      "preferredExit": "dissolve into open negative space"
+    }
+  },
+  {
+    "name": "pinyon-script",
+    "category": "Elegant Calligraphic Script",
+    "personality": [
+      "fluid-calligraphic",
+      "structurally-delicate",
+      "expressively-organic"
+    ],
+    "visualIdentity": [
+      "calligraphic-script",
+      "fragile-strokes",
+      "high-fluidity"
+    ],
+    "creativeUseCases": [
+      "intimate nostalgic and romantic emotional concepts",
+      "whispered storytelling and soft melodic peaks",
+      "avoid for aggressive or highly percussive songs"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 3,
+      "complexity": 4,
+      "density": 2,
+      "sharpness": 1,
+      "roundness": 5
+    },
+    "energy": 2,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.85,
+      "organic": 0.95,
+      "mechanical": 0.05,
+      "dissolve": 0.65,
+      "impact": 0.1,
+      "glitch": 0.05,
+      "kinetic": 0.2
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.8,
+      "melancholic": 0.55,
+      "energetic": 0.15,
+      "dark": 0.1,
+      "warm": 0.8,
+      "nostalgic": 0.9,
+      "futuristic": 0.05
+    },
+    "motionPersonality": {
+      "preferredEntrance": "flowing stroke reveal with soft rise",
+      "preferredIdle": "delicate organic sway along the baseline",
+      "preferredTransition": "fluid calligraphic morph between forms",
+      "preferredExit": "ink dissolve into air"
+    }
+  },
+  {
+    "name": "bebas-neue",
+    "category": "Condensed Display Sans",
+    "personality": [
+      "poster-impact",
+      "vertically-forceful",
+      "low-softness"
+    ],
+    "visualIdentity": [
+      "condensed-display",
+      "bold-poster",
+      "vertical-force"
+    ],
+    "creativeUseCases": [
+      "energetic anthemic choruses and performance hooks",
+      "rhythmic titles that need strong vertical compression",
+      "avoid for soft intimate ballads or delicate ambient textures"
+    ],
+    "contrastPotential": 4,
+    "structure": {
+      "strokeContrast": 2,
+      "complexity": 2,
+      "density": 4,
+      "sharpness": 4,
+      "roundness": 1
+    },
+    "energy": 5,
+    "experimental": 2,
+    "motionAffinity": {
+      "floating": 0.1,
+      "organic": 0.1,
+      "mechanical": 0.7,
+      "dissolve": 0.25,
+      "impact": 0.95,
+      "glitch": 0.2,
+      "kinetic": 0.9
+    },
+    "emotionalAffinities": {
+      "dreamy": 0.05,
+      "melancholic": 0.2,
+      "energetic": 0.95,
+      "dark": 0.4,
+      "warm": 0.2,
+      "nostalgic": 0.25,
+      "futuristic": 0.35
+    },
+    "motionPersonality": {
+      "preferredEntrance": "hard poster slam or vertical wipe",
+      "preferredIdle": "tense condensed hold at full height",
+      "preferredTransition": "aggressive scale or crop preserving compression",
+      "preferredExit": "impact cut or stamp-out"
+    }
+  }
+]
