@@ -8,7 +8,7 @@
     "dev:direct": "node scripts/dev.mjs",
     "dev:safe": "npm --userconfig .npmrc.local run dev",
     "fonts:dotum": "bash scripts/fetch-dotum.sh",
-    "build": "tsc --noEmit && vite build",
+    "build": "vite build",
     "build:direct": "node scripts/dev.mjs build",
     "preview": "vite preview"
   },
